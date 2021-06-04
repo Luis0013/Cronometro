@@ -13,3 +13,4 @@ Dessa forma, você consegue manter o foco e a produtividade por muito mais tempo
 
 Então, use o app de cronometro agora já, aplique a técnica Pomodoro e sinta a diferença extremamente positiva nas tarefas do seu dia a dia
 
+![AppCronometro](https://user-images.githubusercontent.com/65229051/120831045-8463be80-c535-11eb-9125-542d2a0f3dd3.png)
